@@ -1,1 +1,1 @@
-A simple image scrapper built using python
+# A simple image scrapper built using python
